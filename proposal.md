@@ -1,3 +1,7 @@
+---
+permalink: /proposal/
+---
+
 ## Project Proposal
 
 This page contains the project proposal for my senior capstone project.
