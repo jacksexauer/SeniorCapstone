@@ -6,7 +6,7 @@ permalink: /proposal/
 
 ## Project Proposal
 
-This page contains the project proposal for my senior capstone project. [Click here](https://github.com/jacksexauer/SeniorCapstone/index/) to return to the main page.
+This page contains the project proposal for my senior capstone project. [Click here](https://jacksexauer.github.io/SeniorCapstone/index/) to return to the main page.
 
 ### Background
 
