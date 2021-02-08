@@ -1,9 +1,3 @@
----
-layout: page
-title: Project Proposal
-permalink: /proposal/
----
-
 ## Project Proposal
 
 This page contains the project proposal for my senior capstone project. [Click here](https://github.com/jacksexauer/SeniorCapstone/edit/gh-pages/proposal/) to return to the main page.
