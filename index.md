@@ -5,6 +5,6 @@ This website contains information concerning my senior capstone. For this projec
 ### Index
 
 Other pages on this site:
-- [Project proposal](https://github.com/jacksexauer/SeniorCapstone/proposal/)
-- [Kenai site visit blog post](https://github.com/jacksexauer/SeniorCapstone/blog1/)
+- [Project proposal](https://jacksexauer.github.io/SeniorCapstone/proposal/)
+- [Kenai site visit blog post](https://jacksexauer.github.io/SeniorCapstone/blog1/)
 
