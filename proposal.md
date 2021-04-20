@@ -40,12 +40,17 @@ Once the well data has been optimized, the results will need to be presented/del
 There are several technical elements necessary to the success of the project. In order to access Hilcorp's well data, I will use whatever system is available for my use. For data exploration, I will likely use Excel or an RDMS, depending on the size of the data sets. For preparing, cleaning, and processing the data, I will use Python 3 and machine learning/data science libraries written in such. I have used scikitlearn before, but I may also us Pytorch or TensorFlow, depending on what my needs end up being. I will use Jupyter notebooks for data exploration, initial development, and testing because they are flexible and retain variables in memory.
 
 ### Timeline
-- Feb. 07: Get access to data from Hilcorp
-- Feb. 14: Data preparation
+
+#### Data Acquisition
+- Feb. 14: Get access to data from Hilcorp
 - Feb. 21: Data preparation
-- Feb. 28: Algorithm Selection
-- Mar. 07: Model training
-- Mar. 14: Model training
-- Mar. 21: Model testing/validation
-- Mar. 28: Model testing/validation
-- Apr. 04: Results preparation/delivery
+#### Part One: Intervention Identification
+- Feb. 28: Data pre-processing
+- Mar. 07: Algorithm selection
+- Mar. 14: Model training/testing
+#### Part Two: Intervention Optimization
+- Mar. 21: Data pre-processing
+- Mar. 28: Algorithm selection
+- Apr. 04: Model training/testing
+- Apr. 11: Results preparation/delivery
+- Apr. 18: Results presentation/
