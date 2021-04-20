@@ -44,13 +44,15 @@ There are several technical elements necessary to the success of the project. In
 #### Data Acquisition
 - Feb. 14: Get access to data from Hilcorp
 - Feb. 21: Data preparation
+
 #### Part One: Intervention Identification
 - Feb. 28: Data pre-processing
 - Mar. 07: Algorithm selection
 - Mar. 14: Model training/testing
+
 #### Part Two: Intervention Optimization
 - Mar. 21: Data pre-processing
 - Mar. 28: Algorithm selection
 - Apr. 04: Model training/testing
 - Apr. 11: Results preparation/delivery
-- Apr. 18: Results presentation/
+- Apr. 18: Results presentation
